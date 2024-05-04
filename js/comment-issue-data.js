@@ -1,4 +1,3 @@
-// 评论issues仓库 by.removeif https://removeif.github.io/
 var repoIssuesUrl = "https://api.github.com/repos/userName/userRepo/issues";
 // 对应仓库 clientId、clientSecret 关于这两个参数的安全问题，查看 https://removeif.github.io/2019/09/19/博客源码分享.html#1-热门推荐，最新评论：
 var clientId;// = "46a9f3481b46ea0129d8";
@@ -334,7 +333,7 @@ function loadIssueData(appId, appKey, userName, userRepo, isValine) {
             }
         }
         // console.clear();
-        console.log("~~~~欢迎光临！记得有时间多来看看哦，https://removeif.github.io/ ~~~~")
+        console.log("~~~~欢迎光临！记得有时间多来看看哦，https://cjhcjh6.top/ ~~~~")
     }
         ,
         500
