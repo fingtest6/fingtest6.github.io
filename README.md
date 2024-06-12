@@ -1,4 +1,4 @@
-# cjhcjh6的博客
+# 什亭之人的博客
 ### 这里没有什么好看的
 ### 进博客看看吧
 ### 🔗[hexo.cjhcjh6.top](https://hexo.cjhcjh6.top)
