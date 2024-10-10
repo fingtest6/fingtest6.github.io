@@ -11910,9 +11910,58 @@ hr {
   object-fit: cover;
 }
 .night .navbar,
-.night footer.footer,
-.night .card {
+.night footer.footer {
   background-color: rgba(21,19,19,0.678);
+}
+.night .navbar-menu {
+  background-color: rgba(21,19,19,0.678);
+}
+.night .pagination-link {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .pagination-next {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .level-item.tag {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .article-more.button.is-small.size-small {
+  background-color: rgba(21,19,19,0.678);
+}
+.night .tag.is-grey-lightest {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .input {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .article-licensing.box {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .recommend-area {
+  background-color: rgba(21,19,19,0.678);
+  color: #fff;
+}
+.night .card-content {
+  background-color: rgba(0,0,0,0.5);
+  color: #fff;
+}
+.night .link-muted {
+  color: #fff;
+}
+.night .title.is-size-4.is-block,
+.night .level-item,
+.night .title.is-3.is-size-4-mobile {
+  color: #fff;
+}
+.night .content h3,
+.night .content h2 {
+  color: #fff;
 }
 .aplayer-narrow {
   -webkit-transform: translateX(-100%);
