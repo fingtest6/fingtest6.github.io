@@ -39,6 +39,9 @@
 <script src="/js/lib/preview.js"></script>
 
 
+<script src="https://s4.zstatic.net/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+<script src="/js/lib/crypto.js"></script>
+
 
 
 
@@ -165,20 +168,20 @@
         
     </div>
     
-    <div class="content" v-pre>
-        <div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="不好意思，密码没对哦，在检查检查呢！" data-whm="不好意思，信息无法验证！">
-  <script id="hbeData" type="hbeData" data-hmacdigest="16f9dcaceef15989fe69668724e29804f2c583f358f77826169ff37b134fbca2">342c097c194c661c6286a8e5313511e98377f85f67424ee029793082efa33f49fb0f3adfd1f31263ece7715340d5a964ea12c5645d31451500391a0cd0698c9b88324fcb6a894fc9f585e74d4a5a1dec1d75e2155b2e4ee15206bbd5ff6bd4cf8052b6cf6f33ced17cdf05ec4ffcb8464b660ba5bf054082f2bc00ffed3cf417667ee8a0b20970fe20efbd0402a6a8b70551dc83e6cba482891898e55441f0d383a7454c21593006c0933d0e16f24abc26fb2dde71428490b5e20914230b33d44a0464eef7404829a0717c1b10ebbf15846ebdf3443605f4d1f5205ed97adb06656f85c0f382b1caaef87d32c308cb45da08cf35949cca0092b6d253e249d292e1431f8f73dd7c65929afd2d96747a922f102009a506fb77370cf7c9f71bf9eb4d3ba557b876e45099080cc85c056b13e4509e775a02c3f45ae3b7f0b94c51c7f2fa3faab3903df862086facbd687b59be9a3c24432a3321b8cb58c497d7415e2d78d5f8d34fa52bdeb512f74f11b38e</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">嗨，请输入密码查看哦！</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">
-    </div>
+    
+    <input
+        id="crypto"
+        :class="['input', cryptoStatus]"
+        :disabled="cryptoStatus === 'success'"
+        ref="crypto"
+        placeholder="文章被加密，请输入密码"
+        data-encrypted="U2FsdGVkX18Meid5nz3XxJHtR8gCASFnkpdjQYbuc20T9ibVHc2oRGtz/KsNnzH4eY4OXrbgq94ctDh4eXU2PiVz9RWij7L7QII/hJ0s2z0jOahH7C66jY7pc1lAeL7QlepBIa/WGLWOLCu1vwemk5D4E57bheHH4H0Hbx4Uwt1QtTNbKoMGC1j62iuZB+UogHcAk4b5s6Q3jQ6z6i0CGpvxbYpfYWAwnDRlBaQmWWBsu+OkrPnDBKh+WaRTW7v8XaTfFO+pDQlew29bVaih7fkcQcNZJK+urkq5tkabN4P2uGEzoxZMJpcwFG6EFS5zilSZRLmPXltEeEymXOm5RxAgMPIitb/0ZQ3V1zgICG4KO98VMzl77Fdi2XjszlpZn9tPidGhHzZQbegC9EzwOGc1ZXCnaSAuQwVj8P4yOukUI9IybLAVhLnazccwzEnDwM5kCEMKQqoPbFVvkmD1CSMURpq+y7HZhpDktBaLJOTxVbg2xYembBFcqZi1nOYSseLDh1anUJv6xE/m4CFXNNwkEpMN3Vsa0uZGegZkA/XD9LHuxqv1Hn4SntyaDwjh1RodBxgCFI9mg2wpJARDkcl9pdAT+VQ8pt/v/8BWtUTLJ5h3LaJ2yJoPQyFNwTCHSO/oTJdR7SlRazZ/M89ZW/5Lso0IXGP5yBaHRE55sHuVoL1bT09JOVzndYx5EagTrBZvLWM5q3IParRYgrQy81vWfSb1CIPPFuZK+UxS0LxnzG8SWDc+Q+hL4CZLVakskFldba3tyDNVEkOqNKFRKayC6hQVH6iKceLzPSq8iBQ="
+        data-shasum="406b5ee49e2abcc95bcddfab3011ea9a5ffef1b613347fd128a0b04964399e7e"
+        v-model="crypto"
+    />
+    <transition name="fade">
+        <div class="content" ref="content" v-show="cryptoStatus === 'success'"></div>
+    </transition>
     
     
 </div>
