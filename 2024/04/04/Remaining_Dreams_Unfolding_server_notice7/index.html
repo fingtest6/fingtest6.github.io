@@ -1,0 +1,260 @@
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <title>余梦再现目前进展07 | 什亭之人的小站</title>
+    <meta name="author" content="fingtest6" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+    />
+    <link rel="icon" href="https://i.postimg.cc/1tq8RTGG/Image-1723375203205.jpg" />
+    <link rel="preconnect" href="https://s4.zstatic.net" />
+<script src="https://s4.zstatic.net/ajax/libs/vue/3.3.7/vue.global.prod.min.js"></script>
+<link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+<link rel="preconnect" href="https://fonts.googleapis.cn" />
+<link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin />
+<link
+    rel="stylesheet"
+    href="https://fonts.googleapis.cn/css2?family=Fira+Code:wght@400;500;600;700&family=Lexend:wght@400;500;600;700;800;900&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap"
+/>
+<script> const mixins = {}; </script>
+
+<script src="https://polyfill.alicdn.com/v3/polyfill.min.js?features=default"></script>
+
+
+<script src="https://s4.zstatic.net/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<script src="https://s4.zstatic.net/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js"></script>
+<link
+    rel="stylesheet"
+    href="https://s4.zstatic.net/ajax/libs/highlight.js/11.9.0/styles/github.min.css"
+/>
+<script src="/js/lib/highlight.js"></script>
+
+
+
+<script src="/js/lib/preview.js"></script>
+
+
+
+
+
+<script src="https://s4.zstatic.net/ajax/libs/gitalk/1.8.0/gitalk.min.js"></script>
+<link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/gitalk/1.8.0/gitalk.min.css" />
+
+
+
+
+
+<link rel="stylesheet" href="/css/main.css" />
+
+<meta name="generator" content="Hexo 7.3.0"></head>
+<body>
+    <div id="layout">
+        <transition name="fade">
+            <div id="loading" v-show="loading">
+                <div id="loading-circle">
+                    <h2>LOADING</h2>
+                    <p>加载过慢请开启缓存 浏览器默认开启</p>
+                    <img src="/images/loading.gif" />
+                </div>
+            </div>
+        </transition>
+        <div id="menu" :class="{ hidden: hiddenMenu, 'menu-color': menuColor}">
+    <nav id="desktop-menu">
+        <a class="title" href="/">
+            <span>什亭之人的小站</span>
+        </a>
+        
+        <a href="/">
+            <i class="fa-solid fa-house fa-fw"></i>
+            <span>&ensp;Home</span>
+        </a>
+        
+        <a href="/about">
+            <i class="fa-solid fa-id-card fa-fw"></i>
+            <span>&ensp;About</span>
+        </a>
+        
+        <a href="/archives">
+            <i class="fa-solid fa-box-archive fa-fw"></i>
+            <span>&ensp;Archives</span>
+        </a>
+        
+        <a href="/message">
+            <i class="fa-solid fa-bookmark fa-fw"></i>
+            <span>&ensp;message</span>
+        </a>
+        
+        <a href="/tags">
+            <i class="fa-solid fa-tags fa-fw"></i>
+            <span>&ensp;Tags</span>
+        </a>
+        
+    </nav>
+    <nav id="mobile-menu">
+        <div class="title" @click="showMenuItems = !showMenuItems">
+            <i class="fa-solid fa-bars fa-fw"></i>
+            <span>&emsp;什亭之人的小站</span>
+        </div>
+        <transition name="slide">
+            <div class="items" v-show="showMenuItems">
+                
+                <a href="/">
+                    <div class="item">
+                        <div style="min-width: 20px; max-width: 50px; width: 10%">
+                            <i class="fa-solid fa-house fa-fw"></i>
+                        </div>
+                        <div style="min-width: 100px; max-width: 150%; width: 20%">Home</div>
+                    </div>
+                </a>
+                
+                <a href="/about">
+                    <div class="item">
+                        <div style="min-width: 20px; max-width: 50px; width: 10%">
+                            <i class="fa-solid fa-id-card fa-fw"></i>
+                        </div>
+                        <div style="min-width: 100px; max-width: 150%; width: 20%">About</div>
+                    </div>
+                </a>
+                
+                <a href="/archives">
+                    <div class="item">
+                        <div style="min-width: 20px; max-width: 50px; width: 10%">
+                            <i class="fa-solid fa-box-archive fa-fw"></i>
+                        </div>
+                        <div style="min-width: 100px; max-width: 150%; width: 20%">Archives</div>
+                    </div>
+                </a>
+                
+                <a href="/message">
+                    <div class="item">
+                        <div style="min-width: 20px; max-width: 50px; width: 10%">
+                            <i class="fa-solid fa-bookmark fa-fw"></i>
+                        </div>
+                        <div style="min-width: 100px; max-width: 150%; width: 20%">message</div>
+                    </div>
+                </a>
+                
+                <a href="/tags">
+                    <div class="item">
+                        <div style="min-width: 20px; max-width: 50px; width: 10%">
+                            <i class="fa-solid fa-tags fa-fw"></i>
+                        </div>
+                        <div style="min-width: 100px; max-width: 150%; width: 20%">Tags</div>
+                    </div>
+                </a>
+                
+            </div>
+        </transition>
+    </nav>
+</div>
+<transition name="fade">
+    <div id="menu-curtain" @click="showMenuItems = !showMenuItems" v-show="showMenuItems"></div>
+</transition>
+
+        <div id="main" :class="loading ? 'into-enter-from': 'into-enter-active'">
+            <div class="article">
+    <div>
+        <h1>余梦再现目前进展07</h1>
+    </div>
+    <div class="info">
+        <span class="date">
+            <span class="icon">
+                <i class="fa-solid fa-calendar fa-fw"></i>
+            </span>
+            2024/4/4
+        </span>
+        
+        
+        <span class="tags">
+            <span class="icon">
+                <i class="fa-solid fa-tags fa-fw"></i>
+            </span>
+            
+            
+            <span class="tag">
+                
+                <a href="/tags/Remaining-Dreams-Unfolding/" style="color: #ff7d73">
+                    Remaining_Dreams_Unfolding
+                </a>
+            </span>
+            
+        </span>
+        
+    </div>
+    
+    <div class="content" v-pre>
+        <h3 id="这次测试又出BUG了"><a href="#这次测试又出BUG了" class="headerlink" title="这次测试又出BUG了"></a>这次测试又出BUG了</h3><h3 id="是lychee的问题，去末地会崩溃"><a href="#是lychee的问题，去末地会崩溃" class="headerlink" title="是lychee的问题，去末地会崩溃"></a>是<a target="_blank" rel="noopener" href="https://modrinth.com/mod/lychee">lychee</a>的问题，去末地会崩溃</h3><h3 id="没错又是Mixin错误"><a href="#没错又是Mixin错误" class="headerlink" title="没错又是Mixin错误"></a>没错又是Mixin错误</h3><h3 id="连带Fruitful-Fun和kiwi一起删除了"><a href="#连带Fruitful-Fun和kiwi一起删除了" class="headerlink" title="连带Fruitful Fun和kiwi一起删除了"></a>连带<a target="_blank" rel="noopener" href="https://modrinth.com/mod/fruitful-fun">Fruitful Fun</a>和<a target="_blank" rel="noopener" href="https://modrinth.com/mod/kiwi">kiwi</a>一起删除了</h3><h3 id="以及换了一个传送石碑的Mod"><a href="#以及换了一个传送石碑的Mod" class="headerlink" title="以及换了一个传送石碑的Mod"></a>以及换了一个传送石碑的Mod</h3><h3 id="还有这次也把Ad-Astra以及它的俩个库也删除了"><a href="#还有这次也把Ad-Astra以及它的俩个库也删除了" class="headerlink" title="还有这次也把Ad Astra以及它的俩个库也删除了"></a>还有这次也把<a target="_blank" rel="noopener" href="https://modrinth.com/mod/ad-astra">Ad Astra</a>以及它的俩个库也删除了</h3><h3 id="即使Ad-Astra不出问题我也要删除"><a href="#即使Ad-Astra不出问题我也要删除" class="headerlink" title="即使Ad Astra不出问题我也要删除"></a>即使<a target="_blank" rel="noopener" href="https://modrinth.com/mod/ad-astra">Ad Astra</a>不出问题我也要删除</h3><h3 id="因为它的世界很多"><a href="#因为它的世界很多" class="headerlink" title="因为它的世界很多"></a>因为它的世界很多</h3><h3 id="Banner每次一个一个的加载每个世界的出生点区块"><a href="#Banner每次一个一个的加载每个世界的出生点区块" class="headerlink" title="Banner每次一个一个的加载每个世界的出生点区块"></a>Banner每次一个一个的加载每个世界的出生点区块</h3><h3 id="因此拖慢了服务器的启动速度"><a href="#因此拖慢了服务器的启动速度" class="headerlink" title="因此拖慢了服务器的启动速度"></a>因此拖慢了服务器的启动速度</h3><p><img src="https://i.postimg.cc/44zbKWSC/log1.png" alt="加载区块的日志"></p>
+<h3 id="我把Preparing-spawn-area消息给删除了"><a href="#我把Preparing-spawn-area消息给删除了" class="headerlink" title="我把Preparing spawn area消息给删除了"></a>我把Preparing spawn area消息给删除了</h3><h3 id="差不多7分钟左右了"><a href="#差不多7分钟左右了" class="headerlink" title="差不多7分钟左右了"></a>差不多7分钟左右了</h3><h3 id="这只是加载世界的时间"><a href="#这只是加载世界的时间" class="headerlink" title="这只是加载世界的时间"></a>这只是加载世界的时间</h3><h3 id="这个星期就这样吧"><a href="#这个星期就这样吧" class="headerlink" title="这个星期就这样吧"></a>这个星期就这样吧</h3><h3 id="要考试了下下个星期再更新吧"><a href="#要考试了下下个星期再更新吧" class="headerlink" title="要考试了下下个星期再更新吧"></a>要考试了下下个星期再更新吧</h3>
+    </div>
+    
+    
+    
+    <div id="comment">
+        <div id="gitalk-container"></div>
+    </div>
+    
+    
+    
+    
+    
+</div>
+
+            <footer id="footer">
+    <div id="footer-wrap">
+        <div>
+            &copy;
+            2024 - 2024 什亭之人的小站
+            <span id="footer-icon">
+                <i class="fa-solid fa-font-awesome fa-fw"></i>
+            </span>
+            &commat;fingtest6
+        </div>
+        <div>
+            Powered by <a target="_blank" rel="noopener" href="https://hexo.io">Hexo Engine</a> &amp;
+            <a target="_blank" rel="noopener" href="https://github.com/theme-particlex/hexo-theme-particlex">ParticleX Theme</a> &amp;
+            <a target="_blank" rel="noopener" href="https://pages.github.com/">GitHub Pages</a>
+        </div>
+        
+    </div>
+</footer>
+
+        </div>
+        
+        <transition name="fade">
+            <div id="preview" ref="preview" v-show="previewShow">
+                <img id="preview-content" ref="previewContent" />
+            </div>
+        </transition>
+        
+    </div>
+    <script src="/js/main.js"></script>
+    
+    
+
+<script>
+    const gitalk = new Gitalk({
+        clientID: "29b361428ea6fb15807d",
+        clientSecret: "8b784dfc7f3204889a4bc6f9e0fc88a765103d9a",
+        repo: "fingtest6_hlog_comments",
+        owner: "fingtest6",
+        admin: "fingtest6,cjhcjh6".split(","),
+        language: "zh-CN",
+        id: location.pathname,
+        
+        proxy: "https://proxy-gitalk-api.netlify.app/github_access_token",
+        
+    })
+    gitalk.render("gitalk-container");
+</script>
+
+
+
+
+    
+</body>
+</html>
