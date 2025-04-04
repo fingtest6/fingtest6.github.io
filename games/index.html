@@ -3,7 +3,7 @@
 <html lang="zh-cn">
 <head>
     <meta charset="utf-8" />
-    <title>Tags: xingying | 什亭之人的小站</title>
+    <title> | 什亭之人的小站</title>
     <meta name="author" content="fingtest6" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -37,6 +37,13 @@
 
 
 <script src="/js/lib/preview.js"></script>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1.8.0/dist/gitalk.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.8.0/dist/gitalk.min.css" />
 
 
 
@@ -150,109 +157,34 @@
 </transition>
 
         <div id="main" :class="loading ? 'into-enter-from': 'into-enter-active'">
-            <div id="archives">
-    
-    <div class="categories-tags">
-        
-        
-        
-        <span>
-            <a href="/tags/AronaChat/" style="background: #ffa2c4">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                AronaChat
-            </a>
+            <div class="article">
+    <div>
+        <h1></h1>
+    </div>
+    <div class="info">
+        <span class="date">
+            <span class="icon">
+                <i class="fa-solid fa-calendar fa-fw"></i>
+            </span>
+            2025/1/31
         </span>
-        
-        
-        
-        <span>
-            <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/" style="background: #ff7d73">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                博客更新
-            </a>
-        </span>
-        
-        
-        
-        <span>
-            <a href="/tags/Remaining-Dreams-Unfolding/" style="background: #00a596">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                Remaining_Dreams_Unfolding
-            </a>
-        </span>
-        
-        
-        
-        <span>
-            <a href="/tags/Rebirth-For-Old-Dream2-server/" style="background: #03a9f4">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                Rebirth-For-Old-Dream2_server
-            </a>
-        </span>
-        
-        
-        
-        <span>
-            <a href="/tags/Rebirth-For-Old-Dream-server/" style="background: #ffa2c4">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                Rebirth-For-Old-Dream_server
-            </a>
-        </span>
-        
-        
-        
-        <span>
-            <a href="/tags/xingying/" style="background: linear-gradient(120deg, #9abbf7 0%, #ffbbf4 100%)">
-                <span class="icon">
-                    <i class="fa-solid fa-tags fa-fw"></i>
-                </span>
-                xingying
-            </a>
-        </span>
-        
-        
         
         
     </div>
     
-    <div class="timeline">
-        <div class="timeline-tail"></div>
-        <div class="timeline-content">
-            <div class="item-time">2024/12/3</div>
-            <a href="/2024/12/03/xingying/">
-                <h3>我跟星影_stars结婚了</h3>
-            </a>
-            <div class="info">
-                
-                
-                <span class="tags">
-                    <span class="icon">
-                        <i class="fa-solid fa-tags fa-fw"></i>
-                    </span>
-                    
-                    
-                    <span class="tag">
-                        
-                        <a href="/tags/xingying/" style="color: #03a9f4">
-                            xingying
-                        </a>
-                    </span>
-                    
-                </span>
-                
-            </div>
-        </div>
+    <div class="content" v-pre>
+        
     </div>
+    
+    
+    
+    <div id="comment">
+        <div id="gitalk-container"></div>
+    </div>
+    
+    
+    
+    
     
 </div>
 
@@ -285,6 +217,28 @@
         
     </div>
     <script src="/js/main.js"></script>
+    
+    
+
+<script>
+    const gitalk = new Gitalk({
+        clientID: "29b361428ea6fb15807d",
+        clientSecret: "8b784dfc7f3204889a4bc6f9e0fc88a765103d9a",
+        repo: "fingtest6_hlog_comments",
+        owner: "fingtest6",
+        admin: "fingtest6,cjhcjh6".split(","),
+        language: "zh-CN",
+        id: location.pathname,
+        
+        proxy: "https://proxy-gitalk-api.netlify.app/github_access_token",
+        
+    })
+    gitalk.render("gitalk-container");
+</script>
+
+
+
+
     
 </body>
 </html>
