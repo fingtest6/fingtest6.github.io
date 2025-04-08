@@ -1,0 +1,518 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "什亭之人的博客",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "什亭之人的博客小站",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "什亭之人",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>新年快乐哦</p>\n<!--more-->\n<p><img src=\"https://valaxy.site/imgs/2025.jpg\" alt=\"2025.jpg\"></p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Happy_New_Year_2025\" target=\"_blank\">https://valaxy.site/posts/Happy_New_Year_2025</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Happy_New_Year_2025",
+            "title": "新年快乐!",
+            "date_modified": "2025-01-01T00:00:00.000Z",
+            "date_published": "2025-04-08T13:19:22.743Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>#分支计划<br>\n提示:计划开始的时间</p>\n<!-- valaxy-encrypt-start:20240601 -->\n<p>2024.06.01我开始实施了分支计划</p>\n<p>分支计划就跟git一样,我使用它给</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Branch_Plan\" target=\"_blank\">https://valaxy.site/posts/Branch_Plan</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Branch_Plan",
+            "title": "分支计划",
+            "date_modified": "2024-10-08T23:10:00.000Z",
+            "date_published": "2025-04-08T12:46:46.620Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>提示:<br>\n%3d%3d%3d%3d%3dLKQSNSYTK4UCHFGM2JGYNVFRJU<br>\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/password\" target=\"_blank\">https://valaxy.site/posts/password</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/password",
+            "title": "end",
+            "date_modified": "2024-03-12T16:24:00.000Z",
+            "date_published": "2025-04-06T11:11:43.804Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>旧梦复生</h2>\n<p>先拿这个服务器宣传试试吧</p>\n<h3>1.20.2旧梦复生 |Terralith地形 |JE-BE互通 | 粘液 | 新服开荒</h3>\n<p>服务器版本:1.20~1.20.4都可以进入<br>\n服务器地址:g</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream",
+            "title": "用服务器宣传练练手",
+            "date_modified": "2024-03-07T09:54:22.000Z",
+            "date_published": "2025-04-06T11:04:06.754Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>原本打算在这个主题开发完后进行博客迁移的</p>\n<p>但是时间已经来不及了,为了计划,只能提前进行博客迁移了</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blog_Migration\" target=\"_blank\">https://valaxy.site/posts/Blog_Migration</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blog_Migration",
+            "title": "博客迁移",
+            "date_modified": "2025-04-06T19:00:00.000Z",
+            "date_published": "2025-04-06T10:59:41.152Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>本人来2024年12月3日17点06分与星影结婚了</p>\n<!--more-->\n<p>![1.png](<a href=\"https://i.postimg.cc/mgFhNXWJ/1-EF17-E1-BE36643-B8-\">https://i.postimg.cc/mgFhNXWJ/1-EF17-E1-BE36643-B8-</a></p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/xingying\" target=\"_blank\">https://valaxy.site/posts/xingying</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/xingying",
+            "title": "我跟星影_stars结婚了",
+            "date_modified": "2024-12-03T20:24:00.000Z",
+            "date_published": "2025-01-25T06:46:12.861Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>旧梦复生一周目结束预告</h1>\n<p>由于学业原因<br>\n服务器一周目将于2024-3-14日结束<br>\n这时我们会将存档放出<br>\n非常抱歉</p>\n<!--more-->\n<p>![](<a href=\"https://i.postimg.cc/nLFdC\">https://i.postimg.cc/nLFdC</a></p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream-over\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream-over</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream-over",
+            "title": "旧梦复生一周目结束预告",
+            "date_modified": "2024-03-07T19:49:22.000Z",
+            "date_published": "2025-01-25T06:41:51.360Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>项目介绍</h2>\n<p>AronaChat是一个基于腾讯元器API的一个小项目</p>\n<p>项目地址: [<a href=\"https://github.com/fingtest6/AronaChats\">https://github.com/fingtest6/AronaChats</a>](<a href=\"https://gith\">https://gith</a></p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/AronaChat\" target=\"_blank\">https://valaxy.site/posts/AronaChat</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/AronaChat",
+            "title": "AronaChat",
+            "date_modified": "2025-01-02T12:34:00.000Z",
+            "date_published": "2025-01-23T08:24:10.072Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>我们已经成功在26号更新了服务器</h3>\n<h3>货币名字DreamCoin</h3>\n<h3>我们把所有插件更新到最新的版本</h3>\n<h3>添加插件:</h3>\n<h3>扫雷</h3>\n<h3>来自二周目的连锁挖矿</h3>\n<h3></h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Server_update_logs_2\" target=\"_blank\">https://valaxy.site/posts/Server_update_logs_2</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Server_update_logs_2",
+            "title": "余梦再现-混乱之梦更新日志",
+            "date_modified": "2024-10-27T20:24:00.000Z",
+            "date_published": "2024-10-27T12:40:17.124Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>今天抽空把黑暗模式更新了一下</h3>\n<h3>还是有一些细节没有解决</h3>\n<h3>主要是上边的部分</h3>\n<h3>有点麻烦</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blogger_Update5\" target=\"_blank\">https://valaxy.site/posts/Blogger_Update5</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blogger_Update5",
+            "title": "黑暗模式更新1.1",
+            "date_modified": "2024-10-10T21:41:00.000Z",
+            "date_published": "2024-10-10T14:25:16.014Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>最近开学的事情比较多</h3>\n<h3>忘记了对余梦再现进行宣传了</h3>\n<h3>争取这个星期的弄完宣传</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3",
+            "title": "开学的事情处理完了",
+            "date_modified": "2024-09-14T08:21:00.000Z",
+            "date_published": "2024-09-14T00:21:36.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>打算给博客弄一个功态背景</h3>\n<h3>进展很不错</h3>\n<h3>现在给文章背景弄一个Aero效果</h3>\n<h3>暂时不支持夜晚模式</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blogger_Update\" target=\"_blank\">https://valaxy.site/posts/Blogger_Update</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blogger_Update",
+            "title": "动态背景",
+            "date_modified": "2024-03-22T00:49:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>完工了</h3>\n<h3>Aero效果有点难</h3>\n<h3>换成了白色半透明的效果</h3>\n<h3>接下来就是找壁纸了</h3>\n<h3>上传完壁纸就合并分支</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blogger_Update2\" target=\"_blank\">https://valaxy.site/posts/Blogger_Update2</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blogger_Update2",
+            "title": "动态背景更新",
+            "date_modified": "2024-03-22T15:00:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>更新完了</h3>\n<h3>因为网站挂在github pages</h3>\n<h3>所以壁纸播放有延迟</h3>\n<h3>还请见谅QWQ</h3>\n<h3>终于更新完成了</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blogger_Update3\" target=\"_blank\">https://valaxy.site/posts/Blogger_Update3</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blogger_Update3",
+            "title": "动态背景更新完成",
+            "date_modified": "2024-03-22T21:41:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>更新完了</h3>\n<h3>并且我把自动切换黑暗模式给重新打开了</h3>\n<h3>点击右上角的小灯泡就可以切换黑暗模式了</h3>\n<h3>目前黑暗模式不是很麻烦</h3>\n<h3>还请见谅</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blogger_Update4\" target=\"_blank\">https://valaxy.site/posts/Blogger_Update4</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blogger_Update4",
+            "title": "黑暗模式的动态背景更新完成了",
+            "date_modified": "2024-04-12T21:41:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>博客好像被墙了</h3>\n<h3>要开梯子才可以上</h3>\n<h3>怎么被墙了呢?</h3>\n<h3>我试试有没有办法解决</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/cname_update\" target=\"_blank\">https://valaxy.site/posts/cname_update</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/cname_update",
+            "title": "被墙了",
+            "date_modified": "2024-08-22T15:44:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>说实话觉得挺魔幻的<br>\nJava服游玩旅程太奇怪了<br>\n从梦想天域到寻梦鱼塘再到旧梦复生<br>\n我的理解:<br>\n从梦开始的地方(梦想天域[1.15]失去梦(家因区块错误被毁)之后去寻梦鱼搪[1.16,1.17,1.16</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Dream\" target=\"_blank\">https://valaxy.site/posts/Dream</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Dream",
+            "title": "梦",
+            "date_modified": "2024-03-11T01:54:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>快考试了</h3>\n<h3>有点紧张</h3>\n<h3>毕竟我学的不是很好</h3>\n<h3>emmm</h3>\n<h3>等考完后就可以继续开发余梦再现服务器了</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Examination\" target=\"_blank\">https://valaxy.site/posts/Examination</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Examination",
+            "title": "快考试了",
+            "date_modified": "2024-04-09T19:35:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>我把友情链接弄好了</h3>\n<h3>现在可以添加友情链接了</h3>\n<h3>现在只有一个链接</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Links_Update\" target=\"_blank\">https://valaxy.site/posts/Links_Update</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Links_Update",
+            "title": "友情链接更新",
+            "date_modified": "2024-04-08T16:10:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>目前我们正在制作服务器官网</h3>\n<h3>服务器官网由cjhcjh6制作</h3>\n<h3>没有用模板</h3>\n<h3>感觉还是自己做有意思</h3>\n<h3>接下来就要做模组了</h3>\n<h3>当然也是由cjhcjh6制作</h3>\n<h3></h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/mqjz\" target=\"_blank\">https://valaxy.site/posts/mqjz</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/mqjz",
+            "title": "服务器目前计划",
+            "date_modified": "2024-05-17T17:24:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>emmm，留言也修复好了</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/My-New-Post\" target=\"_blank\">https://valaxy.site/posts/My-New-Post</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/My-New-Post",
+            "title": "博客塔建好了",
+            "date_modified": "2024-03-05T09:36:22.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>开始弄博客的其他的东西</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/new-day\" target=\"_blank\">https://valaxy.site/posts/new-day</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/new-day",
+            "title": "新的一天",
+            "date_modified": "2024-03-07T07:10:22.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>最近尝试做了一下余梦再现的PCl主页</h3>\n<h3>欢迎页参考了MFn233做的<a href=\"https://github.com/MFn233/PCL-Mainpage\">PCL主页</a>的欢迎页</h3>\n<h3>项目地</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/PCL-Mainpage\" target=\"_blank\">https://valaxy.site/posts/PCL-Mainpage</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/PCL-Mainpage",
+            "title": "余梦再现的PCl主页",
+            "date_modified": "2024-04-21T13:53:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>我认识到了我没有计划太混乱了<br>\n以至于没有更新博客和服务器的时间<br>\n我会改变了<br>\n慢慢来了</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/plan\" target=\"_blank\">https://valaxy.site/posts/plan</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/plan",
+            "title": "计划",
+            "date_modified": "2024-08-11T19:03:55.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>此帖子后续会更新</h2>\n<p>我们二周目采Banner混合端进行开服<br>\nBanner是Bukkit和Spigot api和Fabric混合的端<br>\n以此可以在服务器安装一部分插件</p>\n<p>余梦再现二周目是插件MOD混合</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice",
+            "title": "余梦再现二周目预告",
+            "date_modified": "2024-03-31T00:35:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>我今天试了一下发现了那个BUG已经修了</h3>\n<h3>但是有一个新的问题</h3>\n<h3>Fabric进服直接卡死</h3>\n<h3>不会显示缺少或多加的mod</h3>\n<h3>有点麻烦</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2",
+            "title": "旧梦复生二周目前进展02",
+            "date_modified": "2024-03-17T18:37:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>进展很不错</h3>\n<h3>找到了Fabric进服直接卡死的原因</h3>\n<h3>问题出现在JEI上面</h3>\n<h3>我把JEI换成EMI了</h3>\n<h3>现在把移植到Banner就可以了</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3",
+            "title": "旧梦复生二周目前进展03",
+            "date_modified": "2024-03-24T11:59:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>旧梦复生二周目改名为余梦再现(我不怎么会起名还请见谅)</h3>\n<h3>余梦再现预计六月左右开启</h3>\n<h3>二周目版本为1.20.1(Fabric+插件)</h3>\n<h3>英文名改为Remaining Drea</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream_to_Remaining_Dreams_Unfolding\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream_to_Remaining_Dreams_Unfolding</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream_to_Remaining_Dreams_Unfolding",
+            "title": "旧梦复生改名为余梦再现",
+            "date_modified": "2024-03-27T00:45:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>旧梦复生一周目结束</h1>\n<h3>服务器现在已经关闭</h3>\n<h3>二周目将于六月左右开启</h3>\n<h3>感谢你们的陪伴</h3>\n<h3>期待二周目再见</h3>\n<p>存档链接[<a href=\"https://pan.baidu.com/s/1nqaL\">https://pan.baidu.com/s/1nqaL</a></p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream_True-Over\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream_True-Over</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream_True-Over",
+            "title": "旧梦复生一周目结束",
+            "date_modified": "2024-03-15T21:35:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><a id=\"jump_2\"></a><br>\n今天尝试先制作出服务器的服务端<br>\n不出去意外的出意外了<br>\n果然还是兼容问题<br>\n卡在机械动力上面了<br>\n先暂停服务端制作吧<br>\n反正离二周目欢迎两三个月,不着急<br>\nBanner团</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/RebirthForOldDreamBannerCompatibilityIssues\" target=\"_blank\">https://valaxy.site/posts/RebirthForOldDreamBannerCompatibilityIssues</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/RebirthForOldDreamBannerCompatibilityIssues",
+            "title": "Banner的问题",
+            "date_modified": "2024-03-09T18:29:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>最近去做二创后就没有怎么去管服务器了</h3>\n<h3>导致服务器没有完</h3>\n<h3>emmm,还是管一下的,等这一期的二创去做完管理服务器吧</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_1\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_1</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_1",
+            "title": "好久没有去管服务器了",
+            "date_modified": "2024-08-17T16:30:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>ok,回来了</h3>\n<h3>余梦再现四周目开启了</h3>\n<h3>采用以太群岛的玩法</h3>\n<h3>并且给末影龙小加强了一下</h3>\n<h3>介绍的话之后写吧</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_2\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_2</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_2",
+            "title": "余梦再现四周目开启",
+            "date_modified": "2024-08-30T15:26:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>差点忘记更新了</h3>\n<h3>先说一下</h3>\n<h3>目前余梦再现已经正常开服</h3>\n<h3>服务器官网:mc.cjhcjh6.top</h3>\n<h3>以及经历了2个小版本的更新</h3>\n<h3>最近有点忙</h3>\n<h3>七月十号左</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_alls\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_alls</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_alls",
+            "title": "现在余梦再现的情况",
+            "date_modified": "2024-07-01T00:20:55.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>余梦再现四周目的故事</h2>\n<h3>请勿当真(除了跑图补偿和升级每日金币,这俩个是真的)</h3>\n<h3>由于二三四周目切换的比较快</h3>\n<h3>导致四周目的梦境(世界)出现了一点问题</h3>\n<h3>主世界已经混乱了全</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_Server_Fourth_Playthrough\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_Server_Fourth_Playthrough</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_Server_Fourth_Playthrough",
+            "title": "余梦再现四周目的故事",
+            "date_modified": "2024-08-30T16:17:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>好久没有更新了</h3>\n<h3>先说一下</h3>\n<h3>我们把从Fabric+插件改成了Forge+插件</h3>\n<h3>以获取更好的模组体验</h3>\n<h3>服务器的网站已经搭建完成了</h3>\n<h3>准备好就开服了</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10",
+            "title": "余梦再现目前进展10",
+            "date_modified": "2024-05-31T00:19:44.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>对了,之前忘记说了我试了YSM(是!史蒂夫)</h3>\n<h3>这个似乎并不支持fabric服务器里启动</h3>\n<h3>不知道后续更新修不修护</h3>\n<h3>我今天尝试移植到Banner</h3>\n<h3>很顺利......</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4",
+            "title": "余梦再现目前进展04",
+            "date_modified": "2024-03-31T00:30:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>说实话我今天试了一下纯Fabric端</h3>\n<h3>果然没有经济模组(插件)是硬伤</h3>\n<h3>这个星期就这样吧</h3>\n<h3>下个星期试一下cardboard吧，这个应该不会对模组造成损伤吧</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5",
+            "title": "余梦再现目前进展05",
+            "date_modified": "2024-03-31T17:42:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>我尝试使用CardBoard失败了</h3>\n<h3>它与<a href=\"https://www.mcmod.cn/class/5510.html\">Forge Config API Port</a>并不兼容</h3>\n<h3>也就</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice6\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice6</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice6",
+            "title": "余梦再现目前进展06",
+            "date_modified": "2024-04-03T16:39:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>这次测试又出BUG了</h3>\n<h3>是<a href=\"https://modrinth.com/mod/lychee\">lychee</a>的问题，去末地会崩溃</h3>\n<h3>没错又是Mixin错误</h3>\n<h3>连带[Fruit</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice7\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice7</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice7",
+            "title": "余梦再现目前进展07",
+            "date_modified": "2024-04-04T16:39:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>进展非常顺利</h3>\n<h3>除了出问题的模组以为</h3>\n<h3>其他的模组和插件都可以正常运行</h3>\n<h3>现在把菜单 配置 以及成就系统弄完就可以了</h3>\n<h3>顺便等YSM和Banner更新</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8",
+            "title": "余梦再现目前进展08",
+            "date_modified": "2024-04-19T19:39:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>先看一下</h3>\n<p><img src=\"https://i.postimg.cc/2j4BjYvq/QQ-20240504224829.png\" alt=\"来自mcmod百科\"></p>\n<h3>看来这个问题早就有了</h3>\n<h3>emmm</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9\" target=\"_blank\">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9",
+            "title": "余梦再现目前进展09",
+            "date_modified": "2024-05-05T00:10:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>开始奋斗</h3>\n<h3>目前在学AzureArchive</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/struggle\" target=\"_blank\">https://valaxy.site/posts/struggle</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/struggle",
+            "title": "加油",
+            "date_modified": "2024-03-26T10:30:00.000Z",
+            "date_published": "2024-09-04T15:08:40.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
