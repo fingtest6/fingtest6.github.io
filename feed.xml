@@ -4,7 +4,7 @@
         <title>什亭之人的博客</title>
         <link>https://valaxy.site/</link>
         <description>什亭之人的博客小站</description>
-        <lastBuildDate>Tue, 08 Apr 2025 13:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 14:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,14 +15,296 @@
         <copyright>CC BY-NC-SA 4.0 2025 © 什亭之人</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[余梦再现目前进展08]]></title>
+            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</link>
+            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>进展非常顺利</p>
+<p>除了出问题的模组以为</p>
+<p>其他的模组和插件都可以正常运行</p>
+<p>现在把菜单 配置 以及成就系统弄完就可以了</p>
+<p>顺便等YSM和Banner更新</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[余梦再现目前进展05]]></title>
+            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</link>
+            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>说实话我今天试了一下纯Fabric端</p>
+<p>果然没有经济模组(插件)是硬伤</p>
+<p>这个星期就这样吧</p>
+<p>下个星期试一下cardboard吧，这个应该不会对模组造成损伤吧</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[加油]]></title>
+            <link>https://valaxy.site/posts/struggle</link>
+            <guid>https://valaxy.site/posts/struggle</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>开始奋斗</p>
+<p>目前在学AzureArchive</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/struggle" target="_blank">https://valaxy.site/posts/struggle</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[旧梦复生一周目结束预告]]></title>
+            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream-over</link>
+            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream-over</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>旧梦复生一周目结束预告</h1>
+<p>由于学业原因</p>
+<p>服务器一周目将于2024-3-14日结束</p>
+<p>这时我们会将存档放出</p>
+<p>非常抱歉</p>
+<!--more-->
+<p>![](<a href="https://i.postimg.cc/n">https://i.postimg.cc/n</a></p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream-over" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream-over</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[余梦再现目前进展10]]></title>
+            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</link>
+            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>好久没有更新了</p>
+<p>先说一下</p>
+<p>我们把从Fabric+插件改成了Forge+插件</p>
+<p>以获取更好的模组体验</p>
+<p>服务器的网站已经搭建完成了</p>
+<p>准备好就开服了</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[余梦再现-混乱之梦更新日志]]></title>
+            <link>https://valaxy.site/posts/Server_update_logs_2</link>
+            <guid>https://valaxy.site/posts/Server_update_logs_2</guid>
+            <pubDate>Tue, 08 Apr 2025 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我们已经成功在26号更新了服务器</p>
+<p>货币名字DreamCoin</p>
+<p>我们把所有插件更新到最新的版本</p>
+<p>添加插件:</p>
+<p>扫雷</p>
+<p>来自二周目的连锁挖矿</p>
+<p>优化了菜单的样式</p>
+<p>等一下</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Server_update_logs_2" target="_blank">https://valaxy.site/posts/Server_update_logs_2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[余梦再现二周目预告]]></title>
+            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</link>
+            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</guid>
+            <pubDate>Tue, 08 Apr 2025 13:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我们二周目采Banner混合端进行开服</p>
+<p>Banner是Bukkit和Spigot api和Fabric混合的端</p>
+<p>以此可以在服务器安装一部分插件</p>
+<p>余梦再现二周目是插件MOD混合的服务器</p>
+<p>服务器</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[用服务器宣传练练手]]></title>
+            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream</link>
+            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream</guid>
+            <pubDate>Tue, 08 Apr 2025 13:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>旧梦复生</h2>
+<p>先拿这个服务器宣传试试吧</p>
+<h3>1.20.2旧梦复生 |Terralith地形 |JE-BE互通 | 粘液 | 新服开荒</h3>
+<p>服务器版本:1.20~1.20.4都可以进入</p>
+<p>服务器地址</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[旧梦复生二周目前进展02]]></title>
+            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</link>
+            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</guid>
+            <pubDate>Tue, 08 Apr 2025 13:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我今天试了一下发现了那个BUG已经修了</p>
+<p>但是有一个新的问题</p>
+<p>Fabric进服直接卡死</p>
+<p>不会显示缺少或多加的mod</p>
+<p>有点麻烦</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[旧梦复生二周目前进展03]]></title>
+            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</link>
+            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</guid>
+            <pubDate>Tue, 08 Apr 2025 13:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p>进展很不错</p>
+<p>找到了Fabric进服直接卡死的原因</p>
+<p>问题出现在JEI上面</p>
+<p>我把JEI换成EMI了</p>
+<p>现在把移植到Banner就可以了</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[余梦再现的PCl主页]]></title>
+            <link>https://valaxy.site/posts/PCL-Mainpage</link>
+            <guid>https://valaxy.site/posts/PCL-Mainpage</guid>
+            <pubDate>Tue, 08 Apr 2025 13:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>最近尝试做了一下余梦再现的PCl主页</p>
+<p>欢迎页参考了MFn233做的<a href="https://github.com/MFn233/PCL-Mainpage">PCL主页</a>的欢迎页</p>
+<p>项目地址[https://</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/PCL-Mainpage" target="_blank">https://valaxy.site/posts/PCL-Mainpage</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[服务器目前计划]]></title>
+            <link>https://valaxy.site/posts/mqjz</link>
+            <guid>https://valaxy.site/posts/mqjz</guid>
+            <pubDate>Tue, 08 Apr 2025 13:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>目前我们正在制作服务器官网</p>
+<p>服务器官网由cjhcjh6制作</p>
+<p>没有用模板</p>
+<p>感觉还是自己做有意思</p>
+<p>接下来就要做模组了</p>
+<p>当然也是由cjhcjh6制作</p>
+<p>感谢他的支持</p>
+<p>毕竟域名和博客都是他帮忙制作</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/mqjz" target="_blank">https://valaxy.site/posts/mqjz</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[计划]]></title>
+            <link>https://valaxy.site/posts/plan</link>
+            <guid>https://valaxy.site/posts/plan</guid>
+            <pubDate>Tue, 08 Apr 2025 13:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我认识到了我没有计划太混乱了</p>
+<p>以至于没有更新博客和服务器的时间</p>
+<p>我会改变了</p>
+<p>慢慢来了</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/plan" target="_blank">https://valaxy.site/posts/plan</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[友情链接更新]]></title>
+            <link>https://valaxy.site/posts/Links_Update</link>
+            <guid>https://valaxy.site/posts/Links_Update</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>我把友情链接弄好了</p>
+<p>现在可以添加友情链接了</p>
+<p>现在只有一个链接</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Links_Update" target="_blank">https://valaxy.site/posts/Links_Update</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[被墙了]]></title>
+            <link>https://valaxy.site/posts/cname_update</link>
+            <guid>https://valaxy.site/posts/cname_update</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>博客好像被墙了</p>
+<p>要开梯子才可以上</p>
+<p>怎么被墙了呢?</p>
+<p>我试试有没有办法解决</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/cname_update" target="_blank">https://valaxy.site/posts/cname_update</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[动态背景更新完成]]></title>
+            <link>https://valaxy.site/posts/Blogger_Update3</link>
+            <guid>https://valaxy.site/posts/Blogger_Update3</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>更新完了</p>
+<p>因为网站挂在github pages</p>
+<p>所以壁纸播放有延迟</p>
+<p>还请见谅QWQ</p>
+<p>终于更新完成了</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update3" target="_blank">https://valaxy.site/posts/Blogger_Update3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[梦]]></title>
+            <link>https://valaxy.site/posts/Dream</link>
+            <guid>https://valaxy.site/posts/Dream</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>说实话觉得挺魔幻的</p>
+<p>Java服游玩旅程太奇怪了</p>
+<p>从梦想天域到寻梦鱼塘再到旧梦复生</p>
+<p>我的理解:</p>
+<p>从梦开始的地方(梦想天域[1.15]失去梦(家因区块错误被毁)之后去寻梦鱼搪[1.16,1.17,</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Dream" target="_blank">https://valaxy.site/posts/Dream</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[黑暗模式更新1.1]]></title>
+            <link>https://valaxy.site/posts/Blogger_Update5</link>
+            <guid>https://valaxy.site/posts/Blogger_Update5</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>今天抽空把黑暗模式更新了一下</p>
+<p>还是有一些细节没有解决</p>
+<p>主要是上边的部分</p>
+<p>有点麻烦</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update5" target="_blank">https://valaxy.site/posts/Blogger_Update5</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
             <title><![CDATA[新年快乐!]]></title>
             <link>https://valaxy.site/posts/Happy_New_Year_2025</link>
             <guid>https://valaxy.site/posts/Happy_New_Year_2025</guid>
-            <pubDate>Tue, 08 Apr 2025 13:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p>新年快乐哦</p>
-<!--more-->
-<p><img src="https://valaxy.site/imgs/2025.jpg" alt="2025.jpg"></p>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>新年快乐哦<br>
+<img src="https://valaxy.site/imgs/2025.jpg" alt="2025.jpg"></p>
 <br/><p>访问 <a href="https://valaxy.site/posts/Happy_New_Year_2025" target="_blank">https://valaxy.site/posts/Happy_New_Year_2025</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[黑暗模式的动态背景更新完成了]]></title>
+            <link>https://valaxy.site/posts/Blogger_Update4</link>
+            <guid>https://valaxy.site/posts/Blogger_Update4</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>更新完了</p>
+<p>并且我把自动切换黑暗模式给重新打开了</p>
+<p>点击右上角的小灯泡就可以切换黑暗模式了</p>
+<p>目前黑暗模式不是很麻烦</p>
+<p>还请见谅</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update4" target="_blank">https://valaxy.site/posts/Blogger_Update4</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[快考试了]]></title>
+            <link>https://valaxy.site/posts/Examination</link>
+            <guid>https://valaxy.site/posts/Examination</guid>
+            <pubDate>Tue, 08 Apr 2025 13:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p>快考试了</p>
+<p>有点紧张</p>
+<p>毕竟我学的不是很好</p>
+<p>emmm</p>
+<p>等考完后就可以继续开发余梦再现服务器了</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Examination" target="_blank">https://valaxy.site/posts/Examination</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[动态背景更新]]></title>
+            <link>https://valaxy.site/posts/Blogger_Update2</link>
+            <guid>https://valaxy.site/posts/Blogger_Update2</guid>
+            <pubDate>Tue, 08 Apr 2025 13:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p>完工了</p>
+<p>Aero效果有点难</p>
+<p>换成了白色半透明的效果</p>
+<p>接下来就是找壁纸了</p>
+<p>上传完壁纸就合并分支</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update2" target="_blank">https://valaxy.site/posts/Blogger_Update2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
+        <item>
+            <title><![CDATA[动态背景]]></title>
+            <link>https://valaxy.site/posts/Blogger_Update</link>
+            <guid>https://valaxy.site/posts/Blogger_Update</guid>
+            <pubDate>Tue, 08 Apr 2025 13:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p>打算给博客弄一个功态背景</p>
+<p>进展很不错</p>
+<p>现在给文章背景弄一个Aero效果</p>
+<p>暂时不支持夜晚模式</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update" target="_blank">https://valaxy.site/posts/Blogger_Update</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
@@ -50,19 +332,6 @@
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
-            <title><![CDATA[用服务器宣传练练手]]></title>
-            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream</link>
-            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream</guid>
-            <pubDate>Sun, 06 Apr 2025 11:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>旧梦复生</h2>
-<p>先拿这个服务器宣传试试吧</p>
-<h3>1.20.2旧梦复生 |Terralith地形 |JE-BE互通 | 粘液 | 新服开荒</h3>
-<p>服务器版本:1.20~1.20.4都可以进入<br>
-服务器地址:g</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
             <title><![CDATA[博客迁移]]></title>
             <link>https://valaxy.site/posts/Blog_Migration</link>
             <guid>https://valaxy.site/posts/Blog_Migration</guid>
@@ -84,21 +353,6 @@
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
-            <title><![CDATA[旧梦复生一周目结束预告]]></title>
-            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream-over</link>
-            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream-over</guid>
-            <pubDate>Sat, 25 Jan 2025 06:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>旧梦复生一周目结束预告</h1>
-<p>由于学业原因<br>
-服务器一周目将于2024-3-14日结束<br>
-这时我们会将存档放出<br>
-非常抱歉</p>
-<!--more-->
-<p>![](<a href="https://i.postimg.cc/nLFdC">https://i.postimg.cc/nLFdC</a></p>
-<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream-over" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream-over</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
             <title><![CDATA[AronaChat]]></title>
             <link>https://valaxy.site/posts/AronaChat</link>
             <guid>https://valaxy.site/posts/AronaChat</guid>
@@ -110,33 +364,6 @@
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
-            <title><![CDATA[余梦再现-混乱之梦更新日志]]></title>
-            <link>https://valaxy.site/posts/Server_update_logs_2</link>
-            <guid>https://valaxy.site/posts/Server_update_logs_2</guid>
-            <pubDate>Sun, 27 Oct 2024 12:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>我们已经成功在26号更新了服务器</h3>
-<h3>货币名字DreamCoin</h3>
-<h3>我们把所有插件更新到最新的版本</h3>
-<h3>添加插件:</h3>
-<h3>扫雷</h3>
-<h3>来自二周目的连锁挖矿</h3>
-<h3></h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Server_update_logs_2" target="_blank">https://valaxy.site/posts/Server_update_logs_2</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[黑暗模式更新1.1]]></title>
-            <link>https://valaxy.site/posts/Blogger_Update5</link>
-            <guid>https://valaxy.site/posts/Blogger_Update5</guid>
-            <pubDate>Thu, 10 Oct 2024 14:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>今天抽空把黑暗模式更新了一下</h3>
-<h3>还是有一些细节没有解决</h3>
-<h3>主要是上边的部分</h3>
-<h3>有点麻烦</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update5" target="_blank">https://valaxy.site/posts/Blogger_Update5</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
             <title><![CDATA[开学的事情处理完了]]></title>
             <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3</link>
             <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3</guid>
@@ -145,121 +372,6 @@
 <h3>忘记了对余梦再现进行宣传了</h3>
 <h3>争取这个星期的弄完宣传</h3>
 <br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_3</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[动态背景]]></title>
-            <link>https://valaxy.site/posts/Blogger_Update</link>
-            <guid>https://valaxy.site/posts/Blogger_Update</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>打算给博客弄一个功态背景</h3>
-<h3>进展很不错</h3>
-<h3>现在给文章背景弄一个Aero效果</h3>
-<h3>暂时不支持夜晚模式</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update" target="_blank">https://valaxy.site/posts/Blogger_Update</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[动态背景更新]]></title>
-            <link>https://valaxy.site/posts/Blogger_Update2</link>
-            <guid>https://valaxy.site/posts/Blogger_Update2</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>完工了</h3>
-<h3>Aero效果有点难</h3>
-<h3>换成了白色半透明的效果</h3>
-<h3>接下来就是找壁纸了</h3>
-<h3>上传完壁纸就合并分支</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update2" target="_blank">https://valaxy.site/posts/Blogger_Update2</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[动态背景更新完成]]></title>
-            <link>https://valaxy.site/posts/Blogger_Update3</link>
-            <guid>https://valaxy.site/posts/Blogger_Update3</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>更新完了</h3>
-<h3>因为网站挂在github pages</h3>
-<h3>所以壁纸播放有延迟</h3>
-<h3>还请见谅QWQ</h3>
-<h3>终于更新完成了</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update3" target="_blank">https://valaxy.site/posts/Blogger_Update3</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[黑暗模式的动态背景更新完成了]]></title>
-            <link>https://valaxy.site/posts/Blogger_Update4</link>
-            <guid>https://valaxy.site/posts/Blogger_Update4</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>更新完了</h3>
-<h3>并且我把自动切换黑暗模式给重新打开了</h3>
-<h3>点击右上角的小灯泡就可以切换黑暗模式了</h3>
-<h3>目前黑暗模式不是很麻烦</h3>
-<h3>还请见谅</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Blogger_Update4" target="_blank">https://valaxy.site/posts/Blogger_Update4</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[被墙了]]></title>
-            <link>https://valaxy.site/posts/cname_update</link>
-            <guid>https://valaxy.site/posts/cname_update</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>博客好像被墙了</h3>
-<h3>要开梯子才可以上</h3>
-<h3>怎么被墙了呢?</h3>
-<h3>我试试有没有办法解决</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/cname_update" target="_blank">https://valaxy.site/posts/cname_update</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[梦]]></title>
-            <link>https://valaxy.site/posts/Dream</link>
-            <guid>https://valaxy.site/posts/Dream</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p>说实话觉得挺魔幻的<br>
-Java服游玩旅程太奇怪了<br>
-从梦想天域到寻梦鱼塘再到旧梦复生<br>
-我的理解:<br>
-从梦开始的地方(梦想天域[1.15]失去梦(家因区块错误被毁)之后去寻梦鱼搪[1.16,1.17,1.16</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/Dream" target="_blank">https://valaxy.site/posts/Dream</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[快考试了]]></title>
-            <link>https://valaxy.site/posts/Examination</link>
-            <guid>https://valaxy.site/posts/Examination</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>快考试了</h3>
-<h3>有点紧张</h3>
-<h3>毕竟我学的不是很好</h3>
-<h3>emmm</h3>
-<h3>等考完后就可以继续开发余梦再现服务器了</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Examination" target="_blank">https://valaxy.site/posts/Examination</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[友情链接更新]]></title>
-            <link>https://valaxy.site/posts/Links_Update</link>
-            <guid>https://valaxy.site/posts/Links_Update</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>我把友情链接弄好了</h3>
-<h3>现在可以添加友情链接了</h3>
-<h3>现在只有一个链接</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Links_Update" target="_blank">https://valaxy.site/posts/Links_Update</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[服务器目前计划]]></title>
-            <link>https://valaxy.site/posts/mqjz</link>
-            <guid>https://valaxy.site/posts/mqjz</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>目前我们正在制作服务器官网</h3>
-<h3>服务器官网由cjhcjh6制作</h3>
-<h3>没有用模板</h3>
-<h3>感觉还是自己做有意思</h3>
-<h3>接下来就要做模组了</h3>
-<h3>当然也是由cjhcjh6制作</h3>
-<h3></h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/mqjz" target="_blank">https://valaxy.site/posts/mqjz</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
@@ -278,68 +390,6 @@ Java服游玩旅程太奇怪了<br>
             <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<p>开始弄博客的其他的东西</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/new-day" target="_blank">https://valaxy.site/posts/new-day</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[余梦再现的PCl主页]]></title>
-            <link>https://valaxy.site/posts/PCL-Mainpage</link>
-            <guid>https://valaxy.site/posts/PCL-Mainpage</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>最近尝试做了一下余梦再现的PCl主页</h3>
-<h3>欢迎页参考了MFn233做的<a href="https://github.com/MFn233/PCL-Mainpage">PCL主页</a>的欢迎页</h3>
-<h3>项目地</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/PCL-Mainpage" target="_blank">https://valaxy.site/posts/PCL-Mainpage</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[计划]]></title>
-            <link>https://valaxy.site/posts/plan</link>
-            <guid>https://valaxy.site/posts/plan</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p>我认识到了我没有计划太混乱了<br>
-以至于没有更新博客和服务器的时间<br>
-我会改变了<br>
-慢慢来了</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/plan" target="_blank">https://valaxy.site/posts/plan</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[余梦再现二周目预告]]></title>
-            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</link>
-            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>此帖子后续会更新</h2>
-<p>我们二周目采Banner混合端进行开服<br>
-Banner是Bukkit和Spigot api和Fabric混合的端<br>
-以此可以在服务器安装一部分插件</p>
-<p>余梦再现二周目是插件MOD混合</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2server_notice</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[旧梦复生二周目前进展02]]></title>
-            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</link>
-            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>我今天试了一下发现了那个BUG已经修了</h3>
-<h3>但是有一个新的问题</h3>
-<h3>Fabric进服直接卡死</h3>
-<h3>不会显示缺少或多加的mod</h3>
-<h3>有点麻烦</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice2</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[旧梦复生二周目前进展03]]></title>
-            <link>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</link>
-            <guid>https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>进展很不错</h3>
-<h3>找到了Fabric进服直接卡死的原因</h3>
-<h3>问题出现在JEI上面</h3>
-<h3>我把JEI换成EMI了</h3>
-<h3>现在把移植到Banner就可以了</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3" target="_blank">https://valaxy.site/posts/Rebirth-For-Old-Dream2_server_notice3</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
@@ -437,20 +487,6 @@ Banner团</p>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
-            <title><![CDATA[余梦再现目前进展10]]></title>
-            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</link>
-            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>好久没有更新了</h3>
-<h3>先说一下</h3>
-<h3>我们把从Fabric+插件改成了Forge+插件</h3>
-<h3>以获取更好的模组体验</h3>
-<h3>服务器的网站已经搭建完成了</h3>
-<h3>准备好就开服了</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice10</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
             <title><![CDATA[余梦再现目前进展04]]></title>
             <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4</link>
             <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4</guid>
@@ -461,18 +497,6 @@ Banner团</p>
 <h3>我今天尝试移植到Banner</h3>
 <h3>很顺利......</h3>
 <br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice4</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[余梦再现目前进展05]]></title>
-            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</link>
-            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>说实话我今天试了一下纯Fabric端</h3>
-<h3>果然没有经济模组(插件)是硬伤</h3>
-<h3>这个星期就这样吧</h3>
-<h3>下个星期试一下cardboard吧，这个应该不会对模组造成损伤吧</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice5</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
@@ -499,19 +523,6 @@ Banner团</p>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
         <item>
-            <title><![CDATA[余梦再现目前进展08]]></title>
-            <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</link>
-            <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>进展非常顺利</h3>
-<h3>除了出问题的模组以为</h3>
-<h3>其他的模组和插件都可以正常运行</h3>
-<h3>现在把菜单 配置 以及成就系统弄完就可以了</h3>
-<h3>顺便等YSM和Banner更新</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice8</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
             <title><![CDATA[余梦再现目前进展09]]></title>
             <link>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9</link>
             <guid>https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9</guid>
@@ -521,16 +532,6 @@ Banner团</p>
 <h3>看来这个问题早就有了</h3>
 <h3>emmm</h3>
 <br/><p>访问 <a href="https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9" target="_blank">https://valaxy.site/posts/Remaining_Dreams_Unfolding_server_notice9</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (什亭之人)</author>
-        </item>
-        <item>
-            <title><![CDATA[加油]]></title>
-            <link>https://valaxy.site/posts/struggle</link>
-            <guid>https://valaxy.site/posts/struggle</guid>
-            <pubDate>Wed, 04 Sep 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<h3>开始奋斗</h3>
-<h3>目前在学AzureArchive</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/struggle" target="_blank">https://valaxy.site/posts/struggle</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (什亭之人)</author>
         </item>
     </channel>
