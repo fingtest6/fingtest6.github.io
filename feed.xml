@@ -4,7 +4,7 @@
         <title>什亭之人的小站</title>
         <link>https://valaxy.site/</link>
         <description>...我独自坠入梦境之海中……沉睡着……做着不愿想来的梦……</description>
-        <lastBuildDate>Wed, 06 May 2026 10:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 13:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © 什亭之人</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[博客迁移 Valaxy]]></title>
+            <link>https://valaxy.site/posts/Why-choose-Valaxy</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/Why-choose-Valaxy</guid>
+            <pubDate>Wed, 06 May 2026 21:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>为什么我选择 Valaxy</h1>
+<h2>博客迁移</h2>
+<p>我之前博客使用的是<a href="https://hexo.io/zh-cn/">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Why-choose-Valaxy" target="_blank">https://valaxy.site/posts/Why-choose-Valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
         <item>
             <title><![CDATA[主题重构1]]></title>
             <link>https://valaxy.site/posts/Theme-refactoring-1</link>

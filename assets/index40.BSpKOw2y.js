@@ -1,1 +1,0 @@
-import{M as e,S as t}from"./theme.CqaQ60u6.js";var n=t({defaults:{"@type":`SearchAction`,target:{"@type":`EntryPoint`},"query-input":{"@type":`PropertyValueSpecification`,valueRequired:!0,valueName:`search_term_string`}},resolve(t,n){return typeof t.target==`string`&&(t.target={"@type":`EntryPoint`,urlTemplate:e(n.meta.host,t.target)}),t}});export{n as searchActionResolver};

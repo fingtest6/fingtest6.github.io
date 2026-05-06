@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>什亭之人的小站</title>
-    <updated>2026-05-06T10:36:09.786Z</updated>
+    <updated>2026-05-06T13:36:26.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>什亭之人</name>
@@ -15,6 +15,22 @@
     <logo>https://valaxy.site/valaxy-logo.png</logo>
     <icon>https://valaxy.site/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © 什亭之人</rights>
+    <entry>
+        <title type="html"><![CDATA[博客迁移 Valaxy]]></title>
+        <id>https://valaxy.site/posts/Why-choose-Valaxy</id>
+        <link href="https://valaxy.site/posts/Why-choose-Valaxy"/>
+        <updated>2026-05-06T21:30:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>为什么我选择 Valaxy</h1>
+<h2>博客迁移</h2>
+<p>我之前博客使用的是<a href="https://hexo.io/zh-cn/">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/Why-choose-Valaxy" target="_blank">https://valaxy.site/posts/Why-choose-Valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>什亭之人</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-05-06T21:30:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主题重构1]]></title>
         <id>https://valaxy.site/posts/Theme-refactoring-1</id>

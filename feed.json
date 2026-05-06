@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://valaxy.site/posts/Why-choose-Valaxy",
+            "content_html": "<h1>为什么我选择 Valaxy</h1>\n<h2>博客迁移</h2>\n<p>我之前博客使用的是<a href=\"https://hexo.io/zh-cn/\">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Why-choose-Valaxy\" target=\"_blank\">https://valaxy.site/posts/Why-choose-Valaxy</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Why-choose-Valaxy",
+            "title": "博客迁移 Valaxy",
+            "date_modified": "2026-05-06T21:30:00.000Z",
+            "date_published": "2026-05-06T21:30:00.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://valaxy.site/posts/Theme-refactoring-1",
             "content_html": "<p>在原arona主题不便维护与安装之后</p>\n<p>我决定再次用valaxy的starter来重新编写新的arona主题</p>\n<p>虽然说还有很多的功能没有弄完,但是基本处于能用的一个进度了</p>\n<p>目前的计划是优化主页的样</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Theme-refactoring-1\" target=\"_blank\">https://valaxy.site/posts/Theme-refactoring-1</a> 阅读全文。</p>",
             "url": "https://valaxy.site/posts/Theme-refactoring-1",
