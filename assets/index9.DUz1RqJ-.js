@@ -1,0 +1,1 @@
+import{S as e}from"./theme.CqaQ60u6.js";var t=e({cast(e){return typeof e==`string`?{url:e}:e},defaults:{"@type":`VirtualLocation`}});export{t as virtualLocationResolver};
