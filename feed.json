@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "什亭之人的小站",
-    "home_page_url": "https://valaxy.site/",
-    "feed_url": "https://valaxy.site/feed.json",
+    "home_page_url": "https://stzr.cjhcjh6.top/",
+    "feed_url": "https://stzr.cjhcjh6.top/feed.json",
     "description": "...我独自坠入梦境之海中……沉睡着……做着不愿想来的梦……",
     "icon": "https://valaxy.site/valaxy-logo.png",
     "author": {
@@ -11,9 +11,9 @@
     },
     "items": [
         {
-            "id": "https://valaxy.site/posts/Why-choose-Valaxy",
-            "content_html": "<h1>为什么我选择 Valaxy</h1>\n<h2>博客迁移</h2>\n<p>我之前博客使用的是<a href=\"https://hexo.io/zh-cn/\">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Why-choose-Valaxy\" target=\"_blank\">https://valaxy.site/posts/Why-choose-Valaxy</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/Why-choose-Valaxy",
+            "id": "https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy",
+            "content_html": "<h1>为什么我选择 Valaxy</h1>\n<h2>博客迁移</h2>\n<p>我之前博客使用的是<a href=\"https://hexo.io/zh-cn/\">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>\n<br/><p>访问 <a href=\"https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy\" target=\"_blank\">https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy</a> 阅读全文。</p>",
+            "url": "https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy",
             "title": "博客迁移 Valaxy",
             "date_modified": "2026-05-06T21:30:00.000Z",
             "date_published": "2026-05-06T21:30:00.000Z",
@@ -23,9 +23,9 @@
             }
         },
         {
-            "id": "https://valaxy.site/posts/Theme-refactoring-1",
-            "content_html": "<p>在原arona主题不便维护与安装之后</p>\n<p>我决定再次用valaxy的starter来重新编写新的arona主题</p>\n<p>虽然说还有很多的功能没有弄完,但是基本处于能用的一个进度了</p>\n<p>目前的计划是优化主页的样</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Theme-refactoring-1\" target=\"_blank\">https://valaxy.site/posts/Theme-refactoring-1</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/Theme-refactoring-1",
+            "id": "https://stzr.cjhcjh6.top/posts/Theme-refactoring-1",
+            "content_html": "<p>在原arona主题不便维护与安装之后</p>\n<p>我决定再次用valaxy的starter来重新编写新的arona主题</p>\n<p>虽然说还有很多的功能没有弄完,但是基本处于能用的一个进度了</p>\n<p>目前的计划是优化主页的样</p>\n<br/><p>访问 <a href=\"https://stzr.cjhcjh6.top/posts/Theme-refactoring-1\" target=\"_blank\">https://stzr.cjhcjh6.top/posts/Theme-refactoring-1</a> 阅读全文。</p>",
+            "url": "https://stzr.cjhcjh6.top/posts/Theme-refactoring-1",
             "title": "主题重构1",
             "date_modified": "2026-05-06T13:30:00.000Z",
             "date_published": "2026-05-06T13:30:00.000Z",
@@ -35,9 +35,9 @@
             }
         },
         {
-            "id": "https://valaxy.site/posts/Rebirth-For-Old-Dream",
-            "content_html": "<h2>旧梦复生</h2>\n<p>先拿这个服务器宣传试试吧</p>\n<h3>1.20.2旧梦复生 |Terralith地形 |JE-BE互通 | 粘液 | 新服开荒</h3>\n<p>服务器版本:1.20~1.20.4都可以进入</p>\n<p>主要玩法介</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Rebirth-For-Old-Dream\" target=\"_blank\">https://valaxy.site/posts/Rebirth-For-Old-Dream</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/Rebirth-For-Old-Dream",
+            "id": "https://stzr.cjhcjh6.top/posts/Rebirth-For-Old-Dream",
+            "content_html": "<h2>旧梦复生</h2>\n<p>先拿这个服务器宣传试试吧</p>\n<h3>1.20.2旧梦复生 |Terralith地形 |JE-BE互通 | 粘液 | 新服开荒</h3>\n<p>服务器版本:1.20~1.20.4都可以进入</p>\n<p>主要玩法介</p>\n<br/><p>访问 <a href=\"https://stzr.cjhcjh6.top/posts/Rebirth-For-Old-Dream\" target=\"_blank\">https://stzr.cjhcjh6.top/posts/Rebirth-For-Old-Dream</a> 阅读全文。</p>",
+            "url": "https://stzr.cjhcjh6.top/posts/Rebirth-For-Old-Dream",
             "title": "用服务器宣传练练手",
             "date_modified": "2024-03-07T09:54:22.000Z",
             "date_published": "2024-03-07T09:54:22.000Z",
