@@ -1,0 +1,1 @@
+import{N as e,S as t,j as n}from"./theme.B9SSKaxa.js";import{listItemResolver as r}from"./index16.Ckfiv4Hs.js";var i=t({defaults:{"@type":`ItemList`},resolve(t,i){if(t.itemListElement){let a=1;t.itemListElement=n(t.itemListElement,i,r,{array:!0,afterResolve(t){e(t,`position`,a++)}})}return t}});export{i as itemListResolver};

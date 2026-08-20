@@ -4,16 +4,30 @@
         <title>什亭之人的小站</title>
         <link>https://stzr.cjhcjh6.top/</link>
         <description>...我独自坠入梦境之海中……沉睡着……做着不愿想来的梦……</description>
-        <lastBuildDate>Fri, 08 May 2026 15:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>什亭之人的小站</title>
-            <url>https://valaxy.site/valaxy-logo.png</url>
+            <url>https://stzr.cjhcjh6.top/imgs/avatar.webp</url>
             <link>https://stzr.cjhcjh6.top/</link>
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © 什亭之人</copyright>
         <atom:link href="https://stzr.cjhcjh6.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[主题重构2]]></title>
+            <link>https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</link>
+            <guid isPermaLink="false">https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</guid>
+            <pubDate>Thu, 20 Aug 2026 20:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>在博客主题一些的基础更新弄完后</p>
+<p>就该这个主题进行界面大改了</p>
+<p>但是麻烦的是我不知道怎么设计才能这个主题更好看</p>
+<p>所以暂停了就一直没有更新</p>
+<p>最近几天呢,游玩了一个网页游戏</p>
+<p>然后就想到了主题怎么进行</p>
+<br/><p>访问 <a href="https://stzr.cjhcjh6.top/posts/Theme-refactoring-2" target="_blank">https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
         <item>
             <title><![CDATA[博客迁移 Valaxy]]></title>
             <link>https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy</link>

@@ -4,12 +4,24 @@
     "home_page_url": "https://stzr.cjhcjh6.top/",
     "feed_url": "https://stzr.cjhcjh6.top/feed.json",
     "description": "...我独自坠入梦境之海中……沉睡着……做着不愿想来的梦……",
-    "icon": "https://valaxy.site/valaxy-logo.png",
+    "icon": "https://stzr.cjhcjh6.top/imgs/avatar.webp",
     "author": {
         "name": "什亭之人",
         "url": "https://valaxy.site"
     },
     "items": [
+        {
+            "id": "https://stzr.cjhcjh6.top/posts/Theme-refactoring-2",
+            "content_html": "<p>在博客主题一些的基础更新弄完后</p>\n<p>就该这个主题进行界面大改了</p>\n<p>但是麻烦的是我不知道怎么设计才能这个主题更好看</p>\n<p>所以暂停了就一直没有更新</p>\n<p>最近几天呢,游玩了一个网页游戏</p>\n<p>然后就想到了主题怎么进行</p>\n<br/><p>访问 <a href=\"https://stzr.cjhcjh6.top/posts/Theme-refactoring-2\" target=\"_blank\">https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</a> 阅读全文。</p>",
+            "url": "https://stzr.cjhcjh6.top/posts/Theme-refactoring-2",
+            "title": "主题重构2",
+            "date_modified": "2026-08-20T20:31:00.000Z",
+            "date_published": "2026-08-20T20:31:00.000Z",
+            "author": {
+                "name": "什亭之人",
+                "url": "https://valaxy.site"
+            }
+        },
         {
             "id": "https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy",
             "content_html": "<h1>为什么我选择 Valaxy</h1>\n<h2>博客迁移</h2>\n<p>我之前博客使用的是<a href=\"https://hexo.io/zh-cn/\">Hexo</a>,在由于在hexo的维护对我来说不太方便，为了获得更好的长期开发体验，我决</p>\n<br/><p>访问 <a href=\"https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy\" target=\"_blank\">https://stzr.cjhcjh6.top/posts/Why-choose-Valaxy</a> 阅读全文。</p>",

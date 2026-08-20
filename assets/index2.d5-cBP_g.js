@@ -1,0 +1,1 @@
+import{S as e}from"./theme.B9SSKaxa.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};

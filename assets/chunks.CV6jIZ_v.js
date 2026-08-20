@@ -1,0 +1,1 @@
+import{N as e,S as t,b as n,j as r}from"./theme.B9SSKaxa.js";import{offerResolver as i}from"./index23.DWA6fEh8.js";var a=t({defaults:{"@type":`AggregateOffer`},inheritMeta:[{meta:`currency`,key:`priceCurrency`}],resolve(t,a){return t.offers=r(t.offers,a,i),t.offers&&e(t,`offerCount`,n(t.offers).length),t}});export{a as aggregateOfferResolver};
