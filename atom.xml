@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stzr.cjhcjh6.top/</id>
     <title>什亭之人的小站</title>
-    <updated>2026-08-20T12:25:33.918Z</updated>
+    <updated>2026-10-09T14:47:03.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>什亭之人</name>
         <email>i@valaxy.site</email>
-        <uri>https://valaxy.site</uri>
+        <uri>https://valaxy.site/</uri>
     </author>
     <link rel="alternate" href="https://stzr.cjhcjh6.top/"/>
     <link rel="self" href="https://stzr.cjhcjh6.top/atom.xml"/>
@@ -15,6 +15,22 @@
     <logo>https://stzr.cjhcjh6.top/imgs/avatar.webp</logo>
     <icon>https://stzr.cjhcjh6.top/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © 什亭之人</rights>
+    <entry>
+        <title type="html"><![CDATA[主题重构3]]></title>
+        <id>https://stzr.cjhcjh6.top/posts/Theme-refactoring-3</id>
+        <link href="https://stzr.cjhcjh6.top/posts/Theme-refactoring-3"/>
+        <updated>2026-10-09T22:38:00.000Z</updated>
+        <content type="html"><![CDATA[<p>添加了在网页壁纸的支持,我不太清楚能不能直接放出来展示就把demo中的壁纸关闭了</p>
+<p>添加了几个的应用，分别是文件,相册,笔记,这几个新添加的应用可以自己选择开还是关</p>
+<p>完善了README.md的安装方</p>
+<br/><p>访问 <a href="https://stzr.cjhcjh6.top/posts/Theme-refactoring-3" target="_blank">https://stzr.cjhcjh6.top/posts/Theme-refactoring-3</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>什亭之人</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site/</uri>
+        </author>
+        <published>2026-10-09T22:38:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主题重构2]]></title>
         <id>https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</id>
@@ -30,7 +46,7 @@
         <author>
             <name>什亭之人</name>
             <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
+            <uri>https://valaxy.site/</uri>
         </author>
         <published>2026-08-20T20:31:00.000Z</published>
     </entry>
@@ -46,7 +62,7 @@
         <author>
             <name>什亭之人</name>
             <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
+            <uri>https://valaxy.site/</uri>
         </author>
         <published>2026-05-06T21:30:00.000Z</published>
     </entry>
@@ -63,7 +79,7 @@
         <author>
             <name>什亭之人</name>
             <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
+            <uri>https://valaxy.site/</uri>
         </author>
         <published>2026-05-06T13:30:00.000Z</published>
     </entry>
@@ -81,7 +97,7 @@
         <author>
             <name>什亭之人</name>
             <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
+            <uri>https://valaxy.site/</uri>
         </author>
         <published>2024-03-07T09:54:22.000Z</published>
     </entry>

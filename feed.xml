@@ -4,7 +4,7 @@
         <title>什亭之人的小站</title>
         <link>https://stzr.cjhcjh6.top/</link>
         <description>...我独自坠入梦境之海中……沉睡着……做着不愿想来的梦……</description>
-        <lastBuildDate>Thu, 20 Aug 2026 12:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 14:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © 什亭之人</copyright>
         <atom:link href="https://stzr.cjhcjh6.top/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[主题重构3]]></title>
+            <link>https://stzr.cjhcjh6.top/posts/Theme-refactoring-3</link>
+            <guid isPermaLink="false">https://stzr.cjhcjh6.top/posts/Theme-refactoring-3</guid>
+            <pubDate>Fri, 09 Oct 2026 22:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>添加了在网页壁纸的支持,我不太清楚能不能直接放出来展示就把demo中的壁纸关闭了</p>
+<p>添加了几个的应用，分别是文件,相册,笔记,这几个新添加的应用可以自己选择开还是关</p>
+<p>完善了README.md的安装方</p>
+<br/><p>访问 <a href="https://stzr.cjhcjh6.top/posts/Theme-refactoring-3" target="_blank">https://stzr.cjhcjh6.top/posts/Theme-refactoring-3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (什亭之人)</author>
+        </item>
         <item>
             <title><![CDATA[主题重构2]]></title>
             <link>https://stzr.cjhcjh6.top/posts/Theme-refactoring-2</link>

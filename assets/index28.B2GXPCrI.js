@@ -1,1 +1,0 @@
-import{S as e}from"./theme.B9SSKaxa.js";var t=e({defaults:{"@type":`PostalAddress`}});export{t as addressResolver};
